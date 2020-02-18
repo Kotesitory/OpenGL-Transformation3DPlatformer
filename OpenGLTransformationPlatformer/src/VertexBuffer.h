@@ -9,4 +9,5 @@ public:
 
 	void Bind() const;
 	void Unbind() const;
+	void SubData(const void * data, unsigned int size) const;
 };
