@@ -9,3 +9,11 @@ For my new plan i decided to build something different but similar in nature. I 
 I also used help for my original setup from [The Cherno](https://www.youtube.com/user/TheChernoProject). This was used to setup the groundwork for building shaders, OpenGL setup and other helpful tips. I also used code from [OpenGLPrj](https://github.com/joksim/OpenGLPrj), a resources repository for the course of Computer Graphics. And finnaly I used a class for rendering spheres found here.(https://www.songho.ca/opengl/gl_sphere.html) 
 
 It is far from finished. I have only implemented the terrain genlration, using voxels for Marching Cubes. I manage the terrain i chunks and generate it as needed. There is a lot of optimization left to do. I have only implemented Phong lighting and nothing else special in the shaders. Also a rudimented ray-picking system that I plan to furter develop to be used for terrain manipulation(this also doesn't work completely yet). There is no collision detection for tessting reasons and also I haven't gotten to that yet but I have a plan on how it would be implemented.
+
+<a href="https://imgflip.com/gif/3pvcj5"><img src="https://i.imgflip.com/3pvcj5.gif" title="made at imgflip.com"/></a>
+
+<a href="https://imgflip.com/gif/3pvco9"><img src="https://i.imgflip.com/3pvco9.gif" title="made at imgflip.com"/></a>
+
+<a href="https://imgflip.com/gif/3pvctj"><img src="https://i.imgflip.com/3pvctj.gif" title="made at imgflip.com"/></a>
+
+<a href="https://imgflip.com/gif/3pvcz4"><img src="https://i.imgflip.com/3pvcz4.gif" title="made at imgflip.com"/></a>
