@@ -10,7 +10,7 @@ I also used help for my original setup from [The Cherno](https://www.youtube.com
 
 It is far from finished. I have only implemented the terrain genlration, using voxels for Marching Cubes. I manage the terrain i chunks and generate it as needed. There is a lot of optimization left to do. I have only implemented Phong lighting and nothing else special in the shaders. Also a rudimented ray-picking system that I plan to furter develop to be used for terrain manipulation(this also doesn't work completely yet). There is no collision detection for tessting reasons and also I haven't gotten to that yet but I have a plan on how it would be implemented.
 
-<a href="https://imgur.com/a/FZZRFFs"><img src="https://imgur.com/a/FZZRFFs" title="looking around"/></a>
+<a href="https://media3.giphy.com/media/XgTKtxZuAZfymgPcP7/giphy.webp"><img src="https://media3.giphy.com/media/XgTKtxZuAZfymgPcP7/giphy.webp" title="looking around"/></a>
 
 <a href="https://imgflip.com/gif/3pvco9"><img src="https://i.imgflip.com/3pvco9.gif" title="made at imgflip.com"/></a>
 
